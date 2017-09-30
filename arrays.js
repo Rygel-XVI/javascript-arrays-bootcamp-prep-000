@@ -1,18 +1,18 @@
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"]
 
-function addElementToBeginningOfArray() {
+function addElementToBeginningOfArray(array, element) {
 
 }
 
-function destructivelyAddElementToBeginningOfArray() {
+function destructivelyAddElementToBeginningOfArray(array, element) {
 
 }
 
-function addElementToEndOfArray() {
+function addElementToEndOfArray(array, element) {
 
 }
 
-function destructivelyAddElementToEndOfArray() {
+function destructivelyAddElementToEndOfArray(array, element) {
 
 }
 
