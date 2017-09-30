@@ -7,6 +7,7 @@ function addElementToBeginningOfArray(array, element) {
   console.log(newarray)
   */
   newarray.unshift(element)
+  console.log(newarray)
   return newarray
 }
 
