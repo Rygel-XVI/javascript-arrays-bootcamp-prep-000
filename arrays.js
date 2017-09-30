@@ -16,7 +16,7 @@ function destructivelyAddElementToBeginningOfArray(array, element) {
 function addElementToEndOfArray(array, element) {
   var arrayLength = array.length
 //  console.log(arrayLength)
-  var newarray = array.splice(0, arrayLength)
+  var newarray = array.slice(0, arrayLength)
   newarray.push(element)
   return newarray
 }
