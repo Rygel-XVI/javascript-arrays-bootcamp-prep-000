@@ -6,7 +6,7 @@ function addElementToBeginningOfArray(array, element) {
   //console.log("original " + newarray[0])
   unshift.newarray(element)
   console.log("unshifted " + newarray[0])
-  return newarray.unshift(element)
+//  return newarray.unshift(element)
 }
 
 function destructivelyAddElementToBeginningOfArray(array, element) {
